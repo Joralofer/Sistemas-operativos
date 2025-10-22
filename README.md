@@ -15,4 +15,8 @@ Para hacer la practica de WSL habia que:
 
 Esta practica es sencilla primero hacemos "win" + "r" escribes powershell "Wsl --install" y ahora solo queda esperar a que see instale, una vez hecho ya has terminado.
 
+Para la siguiente practica que se llama Docker-Desktop:
 
+Lo primero de todo deebs de abrir en el boscador la pagina web docker-desktop, inicias sesion uy lo instalas, entonces haz la captura y subes la entrega.
+
+La siguiente entrega como objetivo tiene instalar el lliuWin, para ello tienes que abrir el buscador y escribir lliuWin instalador, entoces descargalo y instala otra vez, una vez hecho haz captura.
