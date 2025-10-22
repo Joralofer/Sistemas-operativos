@@ -11,3 +11,8 @@ Para poder hacer la practica de balenaetcher hay que:
 
 Primero de todo intalar la aplicacion balenaEtcher, luego te descargas el Linux mint para ello debes de entrar en la carpeta de red, buscas PC013, lego entras n Users y despues deebes de entrar en lliurex y por ultimo en SMR 2 en este encontraras el Linuxmintel, a continuacion ejecutas el programa balenaetcher, a continuacion hay que introducir el USB, luego seeleccionas el USB y el archivo ISO, una vez hecho esto debes de esperar y habras terminado la practica.
 
+Para hacer la practica de WSL habia que:
+
+Esta practica es sencilla primero hacemos "win" + "r" escribes powershell "Wsl --install" y ahora solo queda esperar a que see instale, una vez hecho ya has terminado.
+
+
