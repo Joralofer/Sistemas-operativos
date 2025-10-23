@@ -20,3 +20,7 @@ Para la siguiente practica que se llama Docker-Desktop:
 Lo primero de todo deebs de abrir en el boscador la pagina web docker-desktop, inicias sesion uy lo instalas, entonces haz la captura y subes la entrega.
 
 La siguiente entrega como objetivo tiene instalar el lliuWin, para ello tienes que abrir el buscador y escribir lliuWin instalador, entoces descargalo y instala otra vez, una vez hecho haz captura.
+
+En la entrega de lliuwin hay que:
+
+Primer buscar el instalacion en google y descargarlo, luego lo descargas y ya esta.
