@@ -24,3 +24,13 @@ La siguiente entrega como objetivo tiene instalar el lliuWin, para ello tienes q
 En la entrega de lliuwin hay que:
 
 Primer buscar el instalacion en google y descargarlo, luego lo descargas y ya esta.
+
+flowchart TD
+A[Inicio] --> B[Haz clic derecho en el escritorio]
+B --> C[Selecciona "Nuevo" > "Carpeta"]
+C --> D[Cambia el nombre a:
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}]
+D --> E[Presiona Enter]
+E --> F[El icono cambia automáticamente]
+F --> G[Acceso al panel de más de 200 opciones de configuración]
+G --> H[Fin]
